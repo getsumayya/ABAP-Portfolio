@@ -14,7 +14,7 @@
 | **Type of Requirement / 要件種別**   | New Development                                                                                                      |
 | **Development Priority / 開発優先度** | Medium                                                                                                               |
 | **Functional Consultant / 機能担当** | \<->                                                                                     |
-| **Developer / 開発担当**             | \SUMAYYA NAZEER SHAHIDA                                                                                                         |
+| **Developer / 開発担当**             |  NAZEER SHAHIDA SUMAYYA                                                                                                         |
 
 
 ## 2.Data Model / データモデル
